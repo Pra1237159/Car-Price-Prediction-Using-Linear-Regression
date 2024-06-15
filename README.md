@@ -26,7 +26,8 @@ As a data scientist in a tech start-up striving to establish itself in this comp
    - Ensure the business stays ahead in the rapidly evolving pre-owned car market.
 
 By successfully developing and implementing this pricing model, Cars4U aims to navigate the complexities of the used car market, securing a foothold and driving growth in an increasingly competitive landscape.
-Data Dictionary of Dataset¶
+
+### Data Dictionary of Dataset
 S.No. : Serial Number
 
 Name : Name of the car which includes Brand name and Model name
