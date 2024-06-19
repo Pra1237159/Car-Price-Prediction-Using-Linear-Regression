@@ -82,15 +82,15 @@ Price : The price of the used car in INR Lakhs (1 Lakh = 100, 000)
 14. Car with 2 seats are most expensive.Cars with 4 seats have higher price range but average price is as same as cars with 5 and 6 and 8 seats.
 
 **Linear Regression Model Analsyis**
-1. R squared and adjusted R squared are very high for the model. This indicates that we have created a good model., which can explain variance in price of used cars for upto 93%.
+1. **R squared and adjusted R squared are very high for the model. This indicates that we have created a good model., which can explain variance in price of used cars for upto 93%.**
 2. F -Stattistics for the modle shows that over all model is significant and there is no over fitting and under fitting of the model.
 3. Satisfyies all test assumption of Linear Regression Assumptions: Mean of residuals should be 0, Linearity of variables, Normality of error terms.
 4. Mean Squared Error for train and test datset is almot same and close to zero. This indicates that we did not overfit the train data.
-5. Error statistics:
+5. **Error statistics:
    Mean Absolute Error (MAE): 0.17044271510882436
    Mean Squared Error (MSE): 0.05244233087785979
    Root Mean Squared Error (RMSE): 0.2290029058284191
-   Mean Absolute Percentage Error (MAPE): 16.57%
+   Mean Absolute Percentage Error (MAPE): 16.57%**
 
 **Observation from the Model**
 It is important to note here that the predicted values are log(price) and therefore coefficients have to be converted accordingly to understand their influence in price.
