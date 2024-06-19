@@ -1,4 +1,10 @@
 # Car-Price-Prediction-Using-Linear-Regression
+( **R squared and adjusted R squared are very high for the model. This indicates that we have created a good model which can explain variance in price of used cars for upto 93%.**)
+(**Error statistics:
+   Mean Absolute Error (MAE): 0.17044271510882436
+   Mean Squared Error (MSE): 0.05244233087785979
+   Root Mean Squared Error (RMSE): 0.2290029058284191
+   Mean Absolute Percentage Error (MAPE): 16.57%**)
 ### Overview
 
 The pre-owned car market in India has seen a significant surge in demand, outpacing new car sales in recent years. While new car sales recorded 3.6 million units in 2018-19, the second-hand car market saw around 4 million transactions. This shift indicates that consumers are increasingly turning to used cars, even preferring them over new ones for replacements. The pre-owned car market's pricing dynamics differ vastly from the new car market, which is regulated by OEMs and dealership discounts. In contrast, used car pricing and supply are highly unpredictable, presenting both challenges and opportunities.
