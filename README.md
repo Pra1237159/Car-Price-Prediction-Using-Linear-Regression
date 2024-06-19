@@ -1,5 +1,6 @@
 # Car-Price-Prediction-Using-Linear-Regression
 ( **R squared and adjusted R squared are very high for the model. This indicates that we have created a good model which can explain variance in price of used cars for upto 93%.**)
+
 (**Error statistics:
    Mean Absolute Error (MAE): 0.17044271510882436
    Mean Squared Error (MSE): 0.05244233087785979
